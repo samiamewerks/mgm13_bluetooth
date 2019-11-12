@@ -1,5 +1,9 @@
 # mgm13_bluetooth 
 
+THIS REPOSITORY IS ABANDONED/ARCHIVED. SEE THE NEWER VERSION AT: 
+
+EMotorWerks/mgm13_bluetooth
+
 PURPOSE
 
 Contains the code for the mgm13 bluetooth function. 
